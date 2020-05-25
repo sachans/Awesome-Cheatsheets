@@ -5,7 +5,7 @@
 List of Data Science Cheatsheets :
 
 ## Table of Contents
-- [Algorithms]()
+- [Algorithms](Algorithms/)
 - [Python](Python/)
 
 
