@@ -3,6 +3,7 @@
 List of Data Science Cheatsheets :
 
 ## Table of Contents
+- [Algorithms](Algorithms/README.md)
 - [Artificial Intelligence](Artificial%20Intelligence/README.md)
 - [Big Data](Big%20Data/README.md)
 - [Data Engineering](Data%20Engineering/README.md)
