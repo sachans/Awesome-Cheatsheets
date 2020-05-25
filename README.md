@@ -27,7 +27,7 @@ List of Data Science Cheatsheets :
 - [Ordinary Differential Equations](Ordinary%20Differential%20Equations/README.md)
 - [Pandas](Pandas/README.md)
 - [Probability](Probability/README.md)
-- [Python](Python/README.md)
+- [Python](Python/)
 - [Scala](Scala/README.md)
 - [SQL](SQL/README.md)
 - [Statistics](Statistics/README.md)
