@@ -6,7 +6,9 @@ List of Data Science Cheatsheets :
 
 ## Table of Contents
 - [Algorithms](Algorithms/)
+- [Artificial Intelligence](Artificial Intelligence/)
 - [Python](Python/)
+- [R](R/)
 
 
 ## Python
