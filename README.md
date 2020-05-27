@@ -2,8 +2,6 @@
 
 
 
-List of Data Science Cheatsheets :
-
 ## Table of Contents
 - [Algorithms](Algorithms/)
 - [Artificial Intelligence](https://github.com/sachans/Awesome-Cheatsheets/tree/master/Artificial%20Intelligence)
