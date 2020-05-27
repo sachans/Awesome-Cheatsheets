@@ -9,6 +9,7 @@ List of Data Science Cheatsheets :
 - [Artificial Intelligence](https://github.com/sachans/Awesome-Cheatsheets/tree/master/Artificial%20Intelligence)
 - [Python](Python/)
 - [R](R/)
+- [NLP](NLP/)
 
 
 
