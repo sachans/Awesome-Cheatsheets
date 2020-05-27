@@ -1,1 +1,1 @@
-# R CHeatsheets
+# R Cheatsheets
