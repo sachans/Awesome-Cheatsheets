@@ -8,7 +8,7 @@
 - [Python](Python/)
 - [R](R/)
 - [NLP](NLP/)
-
+- [EXCEL](Excel/)
 
 
 ## Python
