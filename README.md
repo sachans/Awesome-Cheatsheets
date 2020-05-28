@@ -1,6 +1,6 @@
 # Awesome-Cheatsheets [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-An awesome collection of cheat-sheets which is collected from varius sources like github, kaggle etc.
+An awesome collection of cheat-sheets collected from various sources like github, kaggle etc.
 
 
 ## Table of Contents
