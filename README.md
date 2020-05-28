@@ -10,6 +10,8 @@ An awesome collection of cheat-sheets collected from various sources like github
 - [R](R/)
 - [NLP](NLP/)
 - [EXCEL](Excel/)
+- [Big Data]()
+- [Data Mining]()
 
 
 ## Python
