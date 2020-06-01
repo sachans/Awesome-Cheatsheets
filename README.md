@@ -7,7 +7,7 @@ An awesome collection of cheat-sheets collected from various sources like github
 - [Algorithms](https://github.com/sachans/Awesome-Cheatsheets/tree/master/Algorithms)
 - [Artificial Intelligence](https://github.com/sachans/Awesome-Cheatsheets/tree/master/Artificial%20Intelligence)
 - [Python](https://github.com/sachans/Awesome-Cheatsheets/tree/master/Python)
-- [R](R/)
+- [R](https://github.com/sachans/Awesome-Cheatsheets/tree/master/R)
 - [NLP](NLP/)
 - [EXCEL](Excel/)
 - [Big Data]()
