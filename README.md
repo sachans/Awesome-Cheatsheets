@@ -34,13 +34,21 @@ An awesome collection of cheat-sheets collected from various sources like github
 
 ## Topics  
   
-### Artificial Intelligence Cheat Sheet
+### Algorithm Cheat Sheet
 This cheatsheet contain the algorthims and Data Structure ranging from array to Prim's Algorithm.
 
 
 <a href="https://github.com/sachans/Awesome-Cheatsheets/blob/master/Algorithms/Algorithms.pdf"><img src="https://github.com/sachans/Awesome-Cheatsheets/blob/master/Images/Algo.png" alt="Illustration" width="415px"/> &nbsp; &nbsp; &nbsp;</a>
 
   
+### Artificial Intelligence
+This cheatcheet contain some basic methods through which one can learn AI
+
+
+<a href="https://github.com/sachans/Awesome-Cheatsheets/blob/master/Artificial%20Intelligence/super-cheatsheet-artificial-intelligence.pdf"><img src="https://github.com/sachans/Awesome-Cheatsheets/blob/master/Images/AI.png" alt="Illustration" width="415px"/> &nbsp; &nbsp; &nbsp;</a>
+
+
+
 
 
 
