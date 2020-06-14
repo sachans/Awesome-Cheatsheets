@@ -60,6 +60,13 @@ This cheatsheet contains the basics of Big data which will be good for quick rev
 <a href="https://github.com/sachans/Awesome-Cheatsheets/blob/master/Data%20Engineering/GDE.pdf"><img src="https://github.com/sachans/Awesome-Cheatsheets/blob/master/Images/Data_engineering.png" alt="Illustration" width="415px"/> &nbsp; &nbsp; &nbsp;</a>
 
 
+### Data Mining
+
+
+<a href="https://github.com/sachans/Awesome-Cheatsheets/blob/master/Data%20Mining/Data%20Mining%20Process%2C%20Techniques%2C%20Tools.pdf"><img src="https://github.com/sachans/Awesome-Cheatsheets/blob/master/Images/Data_mining.png" alt="Illustration" width="415px"/> &nbsp; &nbsp; &nbsp;</a>
+
+
+
 
 
 
