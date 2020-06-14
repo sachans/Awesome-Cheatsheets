@@ -32,7 +32,13 @@ An awesome collection of cheat-sheets collected from various sources like github
 - [Trading](https://github.com/sachans/Awesome-Cheatsheets/tree/master/Trading)
 
 
+## Topics  
   
+### Artificial Intelligence Cheat Sheet
+
+
+<a href="https://github.com/sachans/Awesome-Cheatsheets/blob/master/Algorithms/Algorithms.pdf"><img src="https://github.com/sachans/Awesome-Cheatsheets/blob/master/Images/Algo.png" alt="Illustration" width="415px"/> &nbsp; &nbsp; &nbsp;</a>
+
   
 
 
