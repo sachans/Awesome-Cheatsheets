@@ -22,14 +22,14 @@ An awesome collection of cheat-sheets collected from various sources like github
 - [Mathematics](https://github.com/sachans/Awesome-Cheatsheets/tree/master/Mathematics)
 - [Matlab](https://github.com/sachans/Awesome-Cheatsheets/tree/master/Matlab)
 - [NLP](https://github.com/sachans/Awesome-Cheatsheets/tree/master/NLP)
-- [ODE and Linear Algebra]()
-- [Probability]()
+- [ODE and Linear Algebra](https://github.com/sachans/Awesome-Cheatsheets/tree/master/ODE%20and%20LInear%20Algebra)
+- [Probability](https://github.com/sachans/Awesome-Cheatsheets/tree/master/Probability)
 - [Python](https://github.com/sachans/Awesome-Cheatsheets/tree/master/Python)
 - [R](https://github.com/sachans/Awesome-Cheatsheets/tree/master/R)
-- [SQL]()
-- [Scala]()
-- [Statstics]()
-- [Trading]()
+- [SQL](https://github.com/sachans/Awesome-Cheatsheets/tree/master/SQL)
+- [Scala](https://github.com/sachans/Awesome-Cheatsheets/tree/master/Scala)
+- [Statstics](https://github.com/sachans/Awesome-Cheatsheets/tree/master/Statistics)
+- [Trading](https://github.com/sachans/Awesome-Cheatsheets/tree/master/Trading)
 
 
 
