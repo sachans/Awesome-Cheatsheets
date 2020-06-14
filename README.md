@@ -54,6 +54,12 @@ This cheatsheet contains the basics of Big data which will be good for quick rev
 <a href="https://github.com/sachans/Awesome-Cheatsheets/blob/master/Big%20Data/Big-Data-Cheat-Sheet.pdf"><img src="https://github.com/sachans/Awesome-Cheatsheets/blob/master/Images/Big_data.png" alt="Illustration" width="415px"/> &nbsp; &nbsp; &nbsp;</a>
 
 
+### Data Engineering
+
+
+<a href="https://github.com/sachans/Awesome-Cheatsheets/blob/master/Data%20Engineering/GDE.pdf"><img src="https://github.com/sachans/Awesome-Cheatsheets/blob/master/Images/Data_engineering.png" alt="Illustration" width="415px"/> &nbsp; &nbsp; &nbsp;</a>
+
+
 
 
 
